@@ -1,0 +1,27 @@
+/*
+Theme Name: Hard Luck
+Theme URI: http://wordpress.org/themes/hardluck
+Author: Daryl Isaacs
+Author URI: http://diteam.com/
+Description: Basic Setup.
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: hardluck
+
+/*This is my first attempt*/
+.post {font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size:16px;}
+
+/* category menu*/
+.cat-item, ul, li {list-style-type:none; font-family:tahoma; font-size:14px;}
+
+/* utlities menu*/
+.utlities ul {list-style-type:circle; font-family:tahoma; font-size:14px;}
+
+/* footer styles*/
+.footer {font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size:12px;}
+
+/* header styles */
+.header,h1 a {font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size:32px;
+	text-decoration:none; display:block; width:360px; border: 0px solid blue; padding:0px; background-color:#e2e2e2;}
